@@ -5,7 +5,7 @@
     <li> 💪 Meu principal objetivo é ser Desenvolvedor Full Stack. </li>
     <li>
       <img alt="Guilherme-react" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-      Estou estudando conteúdos avançados em ReactJS.
+      Estudo conteúdos avançados em ReactJS.
     </li>
     <li> 💻 Faço Bacharelado em Ciência da Computação. Semestre: 6/8. </li>
     <li>
