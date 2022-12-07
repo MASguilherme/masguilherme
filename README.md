@@ -1,31 +1,52 @@
-<div align="center">
-  <h2>Olá, meu nome é Guilherme Souza. Atualmente estudo front-end!</h2>
+<div>
+  <h3>Olá, meu nome é Guilherme!</h3>
+  <ul>
+    <li> 🖋️ Atualmente desejo ser Desenvolvedor Front-End Jr.</li>
+    <li> 💪 Meu principal objetivo é ser Desenvolvedor Full Stack. </li>
+    <li>
+      <img alt="Guilherme-react" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+      Estou estudando conteúdos avançados em ReactJS.
+    </li>
+    <li> 💻 Faço Bacharelado em Ciência da Computação. Semestre: 6/8. </li>
+    <li>
+       🧠 Tenho Conhecimentos em:
+      <div>
+        <ul>
+          <li>
+            <img alt="Guilherme-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+            ReactJS
+          </li>
+          <li>
+           <img alt="Guilherme-nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+           NodeJS
+          </li>
+          <li>
+          <img alt="Guilherme-mongodb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
+          MongoDB  
+          </li>
+           <li>
+            <img alt="Guilherme-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+            TypeScript
+          </li>
+          <li>
+            <img  alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+            Javascript
+          </li>
+        </ul>
+      </div>
+    </li>
+  </ul>
 
 <!--
 **MASguilherme/masguilherme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 <br>
-  <a href="https://github.com/masguilherme">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MASguilherme&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MASguilherme&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
+  <div align="center">
+    <a href="https://github.com/masguilherme">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MASguilherme&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MASguilherme&layout=compact&langs_count=7&theme=tokyonight"/>
+    </a>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
-</div>
+
 
