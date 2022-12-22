@@ -1,7 +1,6 @@
 <div>
   <h3>Olá, meu nome é Guilherme!</h3>
   <ul>
-    <li> 🖋️ Atualmente desejo ser Desenvolvedor Front-End Jr.</li>
     <li> 💪 Meu principal objetivo é ser Desenvolvedor Full Stack. </li>
     <li>
       <img alt="Guilherme-react" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
